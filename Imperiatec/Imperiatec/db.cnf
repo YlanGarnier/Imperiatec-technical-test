@@ -1,0 +1,5 @@
+[client]
+database = imperiatecdb
+user = imperiatec
+password = mysql
+default-character-set = utf8
